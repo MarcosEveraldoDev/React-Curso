@@ -20,7 +20,7 @@ export const InputContainer = styled.div`
         text-align: end;
         padding: 0 0.9rem;
 
-        font-size: 3rem;
+        font-size: 2rem;
 
         color: #ffffff;
     }
